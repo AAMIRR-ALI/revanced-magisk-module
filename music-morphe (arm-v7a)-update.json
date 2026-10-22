@@ -1,6 +1,6 @@
 {
-  "version": "v9.20.53 (patches 1.47.0.mpp)",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/AAMIRR-ALI/revanced-magisk-module/releases/download/6/music-morphe-module-v9.20.53-arm-v7a.zip",
+  "version": "v9.20.53 (patches 1.48.0.mpp)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/AAMIRR-ALI/revanced-magisk-module/releases/download/9/music-morphe-module-v9.20.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/AAMIRR-ALI/revanced-magisk-module/update/build.md"
 }
